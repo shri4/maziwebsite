@@ -1,0 +1,45 @@
+#container
+{
+    border: 5px solid black;
+    padding-bottom: 50px;
+    border-radius: 50px;
+}
+#login
+{
+    text-align: center;
+    font-size: 96px;
+}
+#username
+{
+    text-align: center;
+    margin: 40px;
+    font-size:30px ;
+}
+#pass
+{
+    text-align: center;
+    margin: 40px;
+    font-size:30px ;
+}
+#usernametext
+{
+    border-radius: 40px;
+}
+#password
+{
+    border-radius: 40px;
+}
+#submit
+{
+    text-align: center;
+}
+#sub
+{
+    padding: 0px  40px;
+    border-radius:10px;
+}
+#reset
+{
+    padding: 0px  40px;
+    border-radius:10px;
+}

@@ -18,7 +18,7 @@ if(isset($_POST['submit'])){
   <title>LOGIN</title>
 </head>
 <body>
- <form action="#" method="get" accept-charset="utf-8">
+ <form action="home.html" method="POST" accept-charset="utf-8">
     <div id="login">
       <strong>LOGIN </strong>
     </div>
